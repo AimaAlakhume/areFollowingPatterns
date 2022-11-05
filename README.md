@@ -1,0 +1,1 @@
+# areFollowingPatterns
